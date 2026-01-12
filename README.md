@@ -39,22 +39,6 @@ The repository is organized into modules corresponding to the course syllabus:
    - Lists, tuples, and dictionaries  
    - Operations on strings  
 
-5. **File Handling**  
-   - Reading from and writing to files  
-   - Working with text and CSV files  
-
-6. **Error and Exception Handling**  
-   - Understanding errors  
-   - Using `try`, `except`, and `finally` blocks  
-
-7. **Introduction to Libraries**  
-   - Overview of libraries like `math`, `random`, and `datetime`  
-
-8. **Projects**  
-   - Small projects like a calculator, number guessing game, and student record management system
-  
-   - Under uploading
-
 ---
 
 ## 💻 Getting Started  
